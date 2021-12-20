@@ -1,0 +1,8 @@
+{
+    "mongoURI": "localhost",
+    "mongoPORT": "27017",
+    "mongoUSER": "cwp_user",
+    "mongoPASS": "Optus123!!",
+    "mongoDB": "cwp_db",
+    "jwtSecret": "mySecretToken"
+}
