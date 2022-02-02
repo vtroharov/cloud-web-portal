@@ -2,7 +2,7 @@
     "mongoURI": "localhost",
     "mongoPORT": "27017",
     "mongoUSER": "cwp_user",
-    "mongoPASS": "Optus123!!",
+    "mongoPASS": "Password123",
     "mongoDB": "cwp_db",
     "jwtSecret": "mySecretToken"
 }
